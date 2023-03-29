@@ -19,6 +19,4 @@
 
 <h2>Credits</h2>
 <p>This extension was developed by Paulo Mantovani. If you find this extension helpful, please consider giving it a star on GitHub or sharing it with your friends.</p>
-
-<h2>License</h2>
-<p>This extension is released under the MIT License.</p>
+xD
