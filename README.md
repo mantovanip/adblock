@@ -20,6 +20,3 @@
 <h2>Credits</h2>
 <p>This extension was developed by Paulo Mantovani. If you find this extension helpful, please consider giving it a star on GitHub or sharing it with your friends.</p>
 
-<h2>Contributors</h2>
-<p>This extension was created with the help of ChatGPT, a language model trained by OpenAI based on the GPT-3.5 architecture.</p>
-xD
